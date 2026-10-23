@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22" fill="#2563eb"></rect>
+
+  <!-- Letter P -->
+  <path d="M20 74 V26 H45 C63 26 63 54 45 54 H20" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Letter B -->
+  <path d="M58 26 V74 H77 C96 74 96 50 77 50 H58
+       M58 26 H75 C92 26 92 50 75 50" fill="none" stroke="#bfdbfe" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
